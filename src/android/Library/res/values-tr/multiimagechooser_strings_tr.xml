@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="multi_app_name">Çoklu Resim Seçici</string>
+    <string name="free_version_label">Ücretsiz versiyon - Kalan resim: %d</string>
+    <string name="error_database">Resim veritabanını açarken hata oluştu. Lütfen problemi rapor edin. </string>
+    <string name="requesting_thumbnails">Önizleme oluşturuluyor, lütfen bekleyin.</string>
+    <string name="processing_images_header">Resimler İşleniyor</string>
+    <string name="processing_images_message">Bu biraz zaman alabilir</string>
+    <string name="maximum_selection_count_error_header">Limite ulaşıldı</string>
+    <string name="maximum_selection_count_error_message">Bir defada sadece %d resim seçebilirsiniz.</string>
+    <string name="discard">İptal</string>
+    <string name="done">Tamam</string>
+</resources>
